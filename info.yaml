@@ -36,10 +36,10 @@ documentation:
 # A description of what the inputs do (e.g. red button, SPI CLK, SPI MOSI, etc).
   inputs:               
     - CLK
-    - LED a
-    - LED b
-    - LED c
-    - LED d
+    - none
+    - none
+    - none
+    - none
     - none
     - none
     - none
